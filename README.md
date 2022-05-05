@@ -1,4 +1,4 @@
-## Olá, eu sou o João Vitor Marques, desenvolvedor mobile. :)
+## Olá, eu sou o João Vitor, desenvolvedor mobile. :)
 
 <div align="center">
   <a href="https://github.com/joaovtmarques">
