@@ -1,4 +1,4 @@
-## Olá, eu sou o João Vitor, dev. fullstack mobile. :)
+## Olá, eu sou o João Vitor, dev. fullstack. :)
 
 <div align="center">
   <a href="https://github.com/joaovtmarques">
