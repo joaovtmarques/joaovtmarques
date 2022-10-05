@@ -1,4 +1,4 @@
-## Olá, eu sou o João Vitor :)
+## Olá, eu sou o João Vitor :) 👨🏽‍💻
 
 <div align="left">
 
