@@ -39,5 +39,5 @@
  #### - :mailbox: Fale comigo:
 <div> 
   <a href = "mailto:jvsilvam@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-      outlook&logoColor=white"target="_blank"></a>
- <a target="_blank" href="mailto:www.linkedin.com/in/joão-vitor-da-silva-marques-944b461bb/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a target="_blank" href="https://www.linkedin.com/in/joão-vitor-da-silva-marques-944b461bb/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
