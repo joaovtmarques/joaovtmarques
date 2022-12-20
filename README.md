@@ -17,7 +17,7 @@
   <img align="center" alt="João-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div> -->
   
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,js,ts,css,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,js,ts,postgres,tailwind,java&theme=dark)](https://skillicons.dev)
   
 ##
 
@@ -32,7 +32,7 @@
 
  </div> -->
   
-[![My Skills](https://skillicons.dev/icons?i=java,php,laravel,kotlin,html,mysql,firebase,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,html,css,mysql,sqlite,firebase,vscode,figma,unreal&theme=dark)](https://skillicons.dev)
  
  ##
  
