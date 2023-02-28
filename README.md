@@ -32,7 +32,7 @@
 
  </div> -->
   
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,html,css,mysql,sqlite,firebase,vscode,figma,unreal&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,html,css,mysql,sqlite,figma,unreal&theme=dark)](https://skillicons.dev)
  
  ##
  
