@@ -1,5 +1,15 @@
 ## Olá, eu sou o João Vitor :) 👨🏽‍💻
 
+Desenvolvedor Full Stack com 5 anos de experiência, atuando em projetos web e mobile. Formado como Técnico em Desenvolvimento de Sistemas pela ETEC Machado de Assis e atualmente concluíndo curso superior em Banco de Dados.
+
+No momento atuo como Cabo do Exército arma de Infantaria e Auxiliar de T.I. no 6º Batalhão de Infantaria Aeromóvel, em Caçapava/SP, oferecendo suporte técnico; realizando manutenção preventiva; montagem e configuração de hardware; administração/instalação e manutenção de redes; segurança da informação; backups e desenvolvimento e manutenção de sistemas internos. Minha habilidades também incluem liderança, assistência e aconselhamento, participação em operações, supervisão de atividades operacionais e administrativas, e apoio no treinamento de soldados mais novos.
+
+Anteriormente (2021/2022), atuei como Desenvolvedor Full Stack Júnior, onde fui responsável por:
+- Criação e manutenção de APIs com Node.js (backend);
+- Desenvolvimento de interfaces e integrações eficientes utilizando React e React Native (frontend).
+
+Estou sempre aberto a novos desafios e oportunidades para crescer e contribuir com times de alta performance.
+
 <div align="left">
 
   <a href="https://github.com/joaovtmarques">
@@ -15,6 +25,7 @@
   <img align="center" alt="João-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="João-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="João-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="João-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 </div> -->
   
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,js,ts,postgres,tailwind,java&theme=dark)](https://skillicons.dev)
