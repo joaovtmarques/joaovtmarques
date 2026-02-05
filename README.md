@@ -1,10 +1,10 @@
-Desenvolvedor há 5 anos atuando em projetos web e mobile. Técnico em Desenvolvimento de Sistemas e concluíndo curso superior em Banco de Dados.
+Sou desenvolvedor de software com cerca de 5 anos de experiência em aplicações web e APIs, com atuação maior em back-end utilizando Java (Spring Boot, Spring Data, JPA) e Node.js. Tenho experiência com programação orientada a objetos, arquitetura de microsserviços, design de APIs REST, boas práticas de código (SOLID, Clean Code, TDD).
 
-(mar 2023 - atual) Cabo de Infantaria do Exército Brasileiro e Auxiliar de T.I. Atuo oferecendo suporte técnico; realizando manutenção preventiva; montagem e configuração de hardware; administração/instalação e manutenção de redes; segurança da informação; gerenciamento backups; configuração e gerenciamento de servidores e máquinas virtuais e desenvolvimento/manutenção de sistemas internos. 
+Possuo vivência com testes unitários e de integração (JUnit, Jest), Docker, versionamento com Git e bancos de dados relacionais e não relacionais (PostgreSQL, MySQL, MongoDB).
 
-(dez 2021 - dez 2022) Desenvolvedor Full Stack Júnior, atuando em:
-- Criação e manutenção de APIs com Node.js (backend);
-- Desenvolvimento de interfaces e integrações eficientes utilizando React e React Native (frontend).
+Atualmente atuo como Cabo no Exército Brasileiro (mar 2023 - mar 2026), exercendo também funções na área de T.I., com foco em suporte técnico, segurança da informação, redes, manutenção de sistemas internos e gestão de ambientes críticos, o que reforça meu senso de responsabilidade, disciplina e visão de dono.
+
+Estou concluíndo formação superior em Banco de Dados e sou técnico em Desenvolvimento de Sistemas (ETEC). Tenho interesse em evoluir tecnicamente em Java, contribuir com soluções de impacto e crescer junto a times que valorizam colaboração, qualidade e simplicidade.
 
 #### Stacks utilizadas:
 
