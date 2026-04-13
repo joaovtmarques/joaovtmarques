@@ -2,9 +2,9 @@ Sou desenvolvedor de software com cerca de 5 anos de experiência em aplicaçõe
 
 Possuo vivência com testes unitários e de integração (JUnit, Jest), Docker, versionamento com Git e bancos de dados relacionais e não relacionais (PostgreSQL, MySQL, MongoDB).
 
-Atualmente atuo como Cabo no Exército Brasileiro (mar 2023 - mar 2026), exercendo também funções na área de T.I., com foco em suporte técnico, segurança da informação, redes, manutenção de sistemas internos e gestão de ambientes críticos, o que reforça meu senso de responsabilidade, disciplina e visão de dono.
+Atualmente atuo como Cabo no Exército Brasileiro, exercendo também funções na área de T.I., com foco em suporte técnico, segurança da informação, redes, manutenção de sistemas internos e gestão de ambientes críticos, o que reforça meu senso de responsabilidade, disciplina e visão de dono.
 
-Estou concluíndo formação superior em Banco de Dados e sou técnico em Desenvolvimento de Sistemas (ETEC). Tenho interesse em evoluir tecnicamente em Java, contribuir com soluções de impacto e crescer junto a times que valorizam colaboração, qualidade e simplicidade.
+Estou concluíndo curso superior tecnólogo em Banco de Dados e sou técnico em Desenvolvimento de Sistemas (ETEC).
 
 #### Stacks utilizadas:
 
