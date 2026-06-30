@@ -1,4 +1,4 @@
-Sou desenvolvedor de software com cerca de 5 anos de experiência em aplicações web e APIs, com atuação maior em back-end utilizando Java (Spring Boot, Spring Data, JPA) e Node.js. Tenho experiência com programação orientada a objetos, arquitetura de microsserviços, design de APIs REST, boas práticas de código (SOLID, Clean Code, TDD).
+Sou desenvolvedor de software com 6 anos de experiência em aplicações web e APIs, com atuação maior em back-end utilizando Java (Spring Boot, Spring Data, JPA) e Node.js. Tenho experiência com programação orientada a objetos, arquitetura de microsserviços, design de APIs REST, boas práticas de código (SOLID, Clean Code, TDD).
 
 Possuo vivência com testes unitários e de integração (JUnit, Jest), Docker, versionamento com Git e bancos de dados relacionais e não relacionais (PostgreSQL, MySQL, MongoDB).
 
